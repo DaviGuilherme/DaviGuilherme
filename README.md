@@ -17,6 +17,6 @@
 </div>
 </br>
 "Tem quem fica a ver navios
-E tem quem chega longe de jangada."
+e tem quem chega longe de jangada."
 
 <i>Djonga</i>
